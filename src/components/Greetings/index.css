@@ -1,0 +1,22 @@
+.list-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 500;
+  color: #1e293b;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
